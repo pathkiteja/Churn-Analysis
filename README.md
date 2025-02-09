@@ -39,7 +39,6 @@ customer-churn-analysis/
 ├── dataset.csv               # Raw customer data
 ├── churn_analysis.ipynb      # Data preprocessing & ML model training
 ├── PowerBI_Report.pbix       # Power BI dashboard file
-└── requirements.txt          # Dependencies
 ```
 
 ---
